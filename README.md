@@ -75,7 +75,7 @@ I work at the intersection of **deep engineering and product strategy** — tran
 
   <p><sub><strong>LANGUAGES &nbsp;·&nbsp; ML &nbsp;·&nbsp; DATA</strong></sub></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,python,cpp,js,bash,pytorch,tensorflow,sklearn,jupyter,latex&theme=dark" alt="Languages, ML, and data tooling" />
+    <img src="https://skillicons.dev/icons?i=matlab,python,cpp,js,bash,pytorch,tensorflow,sklearn,jupyter&theme=dark" alt="Languages, ML, and data tooling" />
   </a>
 
   <p><sub><strong>TOOLS &nbsp;·&nbsp; PLATFORMS</strong></sub></p>
