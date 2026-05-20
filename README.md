@@ -76,8 +76,9 @@ Long-form writing on quantum, AI, and the future of compute — full archive at 
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mihirkavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirkavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&text_color=e2e8f0" alt="Top languages" />
+  <!-- Using the sigma-five mirror because the primary github-readme-stats.vercel.app deployment is currently paused. -->
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihirkavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mihirkavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=60a5fa&text_color=e2e8f0" alt="Top languages" />
 
   <br />
 
