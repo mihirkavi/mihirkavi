@@ -44,7 +44,7 @@
 
 ### About
 
-I'm the primary Technical Account Manager (Application Engineer) at **MathWorks** for **Apple Inc.**, supporting RF/wireless, GNSS, Apple Watch, manufacturing automation, and AI hardware pipelines across 6+ engineering divisions. Before that, I spent 4 years as a software developer on the **Antenna Toolbox**, shipping AI/ML-driven optimization workflows used by various organizations.
+I'm the primary Technical Account Manager (Application Engineer) at **MathWorks** for **Apple Inc.**, supporting wireless, semiconductors, and agentic AI for hardware pipelines across 6+ engineering divisions. Before that, I spent 4 years as a software developer on the **Antenna Toolbox**, shipping AI/ML-driven optimization workflows used by various organizations.
 
 I work at the intersection of **deep engineering and product strategy** — translating simulation-led decision making into multi-million dollar engineering impact.
 
@@ -80,7 +80,7 @@ I work at the intersection of **deep engineering and product strategy** — tran
 
   <p><sub><strong>TOOLS &nbsp;·&nbsp; PLATFORMS</strong></sub></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vim,regex,ai&theme=dark" alt="Tools and platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,ai&theme=dark" alt="Tools and platforms" />
   </a>
 
   <p><sub><strong>MATHWORKS &nbsp;·&nbsp; RF &nbsp;·&nbsp; WIRELESS</strong></sub></p>
