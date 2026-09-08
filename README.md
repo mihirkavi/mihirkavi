@@ -148,3 +148,7 @@ Long-form writing on quantum, AI, and the future of compute — full archive at 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0d1b2a&height=120&section=footer" alt="" width="100%" />
+
+## License
+
+No license file is included in this repository. This README grants no additional reuse or redistribution permissions; contact the repository owner about permitted use.
