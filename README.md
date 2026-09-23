@@ -11,21 +11,21 @@
     primary github-readme-stats.vercel.app deployment is intermittently paused.
 -->
 
-<a href="https://mihirkavishwar.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1e3a8a&height=200&section=header&text=Mihir%20Kavishwar&fontColor=e2e8f0&fontSize=44&fontAlignY=36&desc=RF%20%E2%80%A2%20AI%20%E2%80%A2%20Antenna%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="Mihir Kavishwar — RF, AI & Antenna Engineering" width="100%" />
+<a href="https://www.mihirkavishwar.com">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1e3a8a&height=200&section=header&text=Mihir%20Kavishwar&fontColor=e2e8f0&fontSize=44&fontAlignY=36&desc=Founder%20%E2%80%A2%20Engineer%20%E2%80%A2%20AI%2C%20Web3%20%26%20Wireless&descSize=18&descAlignY=58&animation=fadeIn" alt="Mihir Kavishwar — Founder and engineer across AI, Web3 and wireless" width="100%" />
 </a>
 
 <div align="center">
 
-  <a href="https://mihirkavishwar.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Technical+Account+Manager+%40+MathWorks;Supporting+Apple+Engineering;RF%2FAI+Engineering+Innovator;Translating+simulation+into+impact" alt="Mihir Kavishwar — roles" />
+  <a href="https://www.mihirkavishwar.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Founder+%40+ReceiptCal;Technical+Account+Manager+%40+MathWorks;AI+%E2%80%A2+Web3+%E2%80%A2+Wireless+commercialization;Making+complex+systems+useful" alt="Mihir Kavishwar — roles" />
   </a>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=mihirkavi&label=Profile%20views&color=60a5fa&style=for-the-badge&labelColor=0d1b2a" alt="profile views" />
   </p>
 
-  <a href="https://mihirkavishwar.com">
+  <a href="https://www.mihirkavishwar.com">
     <img src="https://img.shields.io/badge/Portfolio-mihirkavishwar.com-0d1b2a?style=for-the-badge&logo=safari&logoColor=60a5fa&labelColor=0d1b2a" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mihirkavishwar">
@@ -34,7 +34,7 @@
   <a href="mailto:hello@mihirkavishwar.com">
     <img src="https://img.shields.io/badge/Email-hello%40mihirkavishwar.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=0d1b2a" alt="Email" />
   </a>
-  <a href="https://mihirkavishwar.com/feed.xml">
+  <a href="https://www.mihirkavishwar.com/feed.xml">
     <img src="https://img.shields.io/badge/Blog-RSS-0d1b2a?style=for-the-badge&logo=rss&logoColor=60a5fa&labelColor=0d1b2a" alt="Blog RSS" />
   </a>
 
@@ -44,28 +44,29 @@
 
 ### About
 
-I'm the primary Technical Account Manager (Application Engineer) at **MathWorks** for **Apple Inc.**, supporting wireless, semiconductors, and agentic AI for hardware pipelines across 6+ engineering divisions. Before that, I spent 4 years as a software developer on the **Antenna Toolbox**, shipping AI/ML-driven optimization workflows used by various organizations.
+I'm a founder and engineer focused on **technology commercialization across AI, Web3, and wireless communication**. I bring scientific problem-solving and technical standards into practical product and customer work.
 
-I work at the intersection of **deep engineering and product strategy** — translating simulation-led decision making into multi-million dollar engineering impact.
+By day I'm a **Technical Account Manager / Application Engineer at MathWorks**. Before that I spent four years as a software engineer building antenna and RF design applications in MATLAB, and I studied Engineering Management at **USC**. Alongside that role, I build independent products spanning nutrition, AI workspaces, and communication.
 
 ```text
-→ Currently   Driving RF/AI adoption across Apple's engineering divisions
-→ Previously  4 years on the MathWorks Antenna Toolbox dev team
-→ Writing     Quantum, AI, and the future of compute @ mihirkavishwar.com
-→ Open to     RF/AI tooling, simulation platforms, product-strategy work
+→ Currently   Technical Account Manager / Application Engineer @ MathWorks
+→ Building    ReceiptCal · Manifest · Open Media
+→ Previously  Software engineer on MathWorks antenna & RF tools (2018–2022)
+→ Writing     Quantum, AI, and emerging tech @ mihirkavishwar.com
+→ Open to     Ventures, collaboration, and investment conversations
 ```
 
 ---
 
-### Impact at a Glance
+### Ventures
 
-<div align="center">
+| | Venture | What it is | Status |
+|---|---|---|---|
+| 01 | **[ReceiptCal](https://receiptcal.com)** | Private, lower-friction nutrition tracking from supported digital food receipts, with reviewable estimates. | Live |
+| 02 | **[Manifest](https://manifeststartup.com/home)** | An AI-assisted workspace for idea validation, connected startup documents, and investor collaboration. | Active build |
+| 03 | **[Open Media](https://github.com/mihirkavi/open-media)** | A cross-platform social and messaging system with transparent feeds and explicit provider capabilities. | Private beta |
 
-  <img src="https://img.shields.io/badge/Revenue%20Impact-%242.4M%2B-60a5fa?style=for-the-badge&labelColor=0d1b2a" alt="$2.4M+ revenue impact" />
-  <img src="https://img.shields.io/badge/Apple%20Teams%20Supported-6%2B-60a5fa?style=for-the-badge&labelColor=0d1b2a" alt="6+ Apple teams supported" />
-  <img src="https://img.shields.io/badge/International%20Patent-1-60a5fa?style=for-the-badge&labelColor=0d1b2a" alt="1 international patent" />
-
-</div>
+Case studies: [ReceiptCal](https://www.mihirkavishwar.com/work/receiptcal) · [Open Media](https://www.mihirkavishwar.com/work/open-media) · [Antenna design](https://www.mihirkavishwar.com/work/antenna-design) · [All work](https://www.mihirkavishwar.com/work)
 
 ---
 
@@ -75,12 +76,12 @@ I work at the intersection of **deep engineering and product strategy** — tran
 
   <p><sub><strong>LANGUAGES &nbsp;·&nbsp; ML &nbsp;·&nbsp; DATA</strong></sub></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,python,cpp,js,bash,pytorch,tensorflow,sklearn,jupyter&theme=dark" alt="Languages, ML, and data tooling" />
+    <img src="https://skillicons.dev/icons?i=matlab,python,swift,ts,cpp,js,bash,pytorch,tensorflow,sklearn,jupyter&theme=dark" alt="Languages, ML, and data tooling" />
   </a>
 
   <p><sub><strong>TOOLS &nbsp;·&nbsp; PLATFORMS</strong></sub></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,ai&theme=dark" alt="Tools and platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,linux,xcode,vscode,ai&theme=dark" alt="Tools and platforms" />
   </a>
 
   <p><sub><strong>MATHWORKS &nbsp;·&nbsp; RF &nbsp;·&nbsp; WIRELESS</strong></sub></p>
@@ -94,7 +95,7 @@ I work at the intersection of **deep engineering and product strategy** — tran
 
 ---
 
-### MathWorks Featured Work
+### MathWorks Engineering Work
 
 - **[AI-based Antenna Optimization (SADEA)](https://www.mathworks.com/help/antenna/ug/maximizing-gain-and-improving-impedance-bandwidth-of-e-patch-antenna.html)** — integrated a surrogate-model AI routine into MATLAB, cutting antenna optimization time by **70%**.
 - **[Genetic Algorithm Patch Miniaturization](https://www.mathworks.com/help/antenna/ug/miniaturize-rectangular-microstrip-patch-antenna-using-genetic-algorithm.html)** — designed a GA-driven app for billion-dollar clients, **halving** required antenna footprint.
@@ -105,13 +106,13 @@ I work at the intersection of **deep engineering and product strategy** — tran
 
 ### From the Blog
 
-Long-form writing on quantum, AI, and the future of compute — full archive at [mihirkavishwar.com/blogs.html](https://mihirkavishwar.com/blogs.html).
+Essays on engineering and emerging technology — full archive at [mihirkavishwar.com/blogs](https://www.mihirkavishwar.com/blogs).
 
-- [Why Quantum Computers Will Power the AI Era?](https://mihirkavishwar.com/blog/posts/quantum-computers-next-computing-champion.html) — Feb 2026
-- [Quantum Computing 1: Breaking Down the Process](https://mihirkavishwar.com/blog/posts/quantum-computing.html) — Mar 2024
-- [AI for Legacy Code](https://mihirkavishwar.com/blog/posts/ai-legacy-code.html) — Jan 2024
-- [Combatting Deepfakes](https://mihirkavishwar.com/blog/posts/combatting-deepfakes.html) — Jan 2024
-- [Blockchain & Supply Chain](https://mihirkavishwar.com/blog/posts/blockchain-supply-chain.html) — Dec 2023
+- [Why Quantum Computers Will Power the AI Era?](https://www.mihirkavishwar.com/blog/posts/quantum-computers-next-computing-champion) — Feb 2026
+- [Quantum Computing 1: Breaking Down the Process](https://www.mihirkavishwar.com/blog/posts/quantum-computing) — Mar 2024
+- [AI for Legacy Code](https://www.mihirkavishwar.com/blog/posts/ai-legacy-code) — Jan 2024
+- [AI, Blockchain & Construction](https://www.mihirkavishwar.com/blog/posts/ai-blockchain-construction) — Jan 2024
+- [Combatting Deepfakes](https://www.mihirkavishwar.com/blog/posts/combatting-deepfakes) — Jan 2024
 
 ---
 
@@ -137,7 +138,7 @@ Long-form writing on quantum, AI, and the future of compute — full archive at 
 
 <div align="center">
 
-  <strong>Open to collaborations on RF/AI tooling, simulation platforms, and product-strategy projects.</strong>
+  <strong>Building, investing, or exploring something in AI, Web3, or wireless? I'd be glad to hear from you.</strong>
 
   <br /><br />
 
