@@ -20,7 +20,7 @@ label_pill = next(
     for element in hero_root
     if element.tag.endswith("rect") and element.attrib.get("x") == "88" and element.attrib.get("y") == "63"
 )
-require(float(label_pill.attrib["width"]) >= 310, "hero eyebrow label lacks right-side padding")
+require(float(label_pill.attrib["width"]) >= 360, "hero eyebrow label lacks right-side padding")
 
 require("github-readme-stats-sigma-five.vercel.app" not in README, "unreliable stats provider remains")
 require("github-readme-streak-stats.herokuapp.com" not in README, "unreliable streak provider remains")
